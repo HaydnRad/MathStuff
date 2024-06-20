@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "unordered_set": "cpp",
+        "cmath": "cpp"
+    }
+}
